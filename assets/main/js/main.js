@@ -93,8 +93,8 @@
 			// Enable everywhere else.
 				else {
 
-					breakpoints.on('>large', on);
-					breakpoints.on('<=large', off);
+					breakpoints.off('>large', on);
+					breakpoints.off('<=large', off);
 
 				}
 
