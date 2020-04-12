@@ -1821,7 +1821,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #18bfef !important;
+			color: #f9d23c!important;
 		}
 
 	strong, b {
@@ -2029,8 +2029,8 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			box-shadow: inset 0 0 0 2px #18bfef;
-			color: #18bfef !important;
+			box-shadow: inset 0 0 0 2px #f9d23c;
+			color: #f9d23c!important;
 		}
 
 		input[type="submit"].special,
@@ -2048,7 +2048,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #18bfef;
+				background-color: #f9d23c;
 			}
 
 /* Form */
@@ -2334,7 +2334,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #18bfef;
+			border-color: #f9d23c;
 		}
 
 	select option {
@@ -2365,7 +2365,7 @@
 
 	input[type="checkbox"]:focus + label:before,
 	input[type="radio"]:focus + label:before {
-		border-color: #18bfef;
+		border-color: #f9d23c;
 	}
 
 	::-webkit-input-placeholder {
@@ -2692,7 +2692,7 @@
 	}
 
 	ul.icons li a.icon:hover:before {
-		color: #18bfef;
+		color: #f9d23c;
 	}
 
 	ul.icons.alt li .icon:before {
@@ -2700,7 +2700,7 @@
 	}
 
 	ul.icons.alt li a.icon:hover:before {
-		box-shadow: inset 0 0 0 2px #18bfef;
+		box-shadow: inset 0 0 0 2px #f9d23c;
 	}
 
 /* Section/Article */
@@ -2995,13 +2995,13 @@
 	}
 
 		.pagination a:hover {
-			color: #18bfef !important;
-			border-color: #18bfef;
+			color: #f9d23c!important;
+			border-color: #f9d23c;
 			z-index: 1;
 		}
 
 			.pagination a:hover + a, .pagination a:hover + span {
-				border-left-color: #18bfef;
+				border-left-color: #f9d23c;
 			}
 
 		.pagination a.active {
@@ -3124,7 +3124,7 @@
 
 			#intro a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: #f9d23c!important;
 			}
 
 		#intro strong, #intro b {
@@ -3163,8 +3163,8 @@
 			#intro input[type="button"]:hover,
 			#intro button:hover,
 			#intro .button:hover {
-				box-shadow: inset 0 0 0 2px #18bfef;
-				color: #18bfef !important;
+				box-shadow: inset 0 0 0 2px #f9d23c;
+				color: #f9d23c!important;
 			}
 
 			#intro input[type="submit"].special,
@@ -3182,7 +3182,7 @@
 				#intro input[type="button"].special:hover,
 				#intro button.special:hover,
 				#intro .button.special:hover {
-					background-color: #18bfef;
+					background-color: #f9d23c;
 				}
 
 		#intro h1 {
@@ -3341,7 +3341,7 @@
 
 			#header a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: #f9d23c!important;
 			}
 
 		#header strong, #header b {
@@ -3455,7 +3455,7 @@
 		}
 
 		#nav ul.icons li a.icon:hover:before {
-			color: #18bfef;
+			color: #f9d23c;
 		}
 
 		#nav ul.icons.alt li .icon:before {
@@ -3463,7 +3463,7 @@
 		}
 
 		#nav ul.icons.alt li a.icon:hover:before {
-			box-shadow: inset 0 0 0 2px #18bfef;
+			box-shadow: inset 0 0 0 2px #f9d23c;
 		}
 
 		#nav input, #nav select, #nav textarea {
@@ -3477,7 +3477,7 @@
 
 			#nav a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: #f9d23c!important;
 			}
 
 		#nav strong, #nav b {
@@ -3553,7 +3553,7 @@
 					}
 
 						#nav ul.links li.active a:hover {
-							color: #18bfef !important;
+							color: #f9d23c!important;
 						}
 
 		#nav ul.icons {
@@ -3802,7 +3802,7 @@
 
 			#footer a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: #f9d23c!important;
 			}
 
 		#footer strong, #footer b {
@@ -3845,8 +3845,8 @@
 			#footer input[type="button"]:hover,
 			#footer button:hover,
 			#footer .button:hover {
-				box-shadow: inset 0 0 0 2px #18bfef;
-				color: #18bfef !important;
+				box-shadow: inset 0 0 0 2px #f9d23c;
+				color: #f9d23c!important;
 			}
 
 			#footer input[type="submit"].special,
@@ -3864,7 +3864,7 @@
 				#footer input[type="button"].special:hover,
 				#footer button.special:hover,
 				#footer .button.special:hover {
-					background-color: #18bfef;
+					background-color: #f9d23c;
 				}
 
 		#footer label {
@@ -3884,7 +3884,7 @@
 			#footer input[type="email"]:focus,
 			#footer select:focus,
 			#footer textarea:focus {
-				border-color: #18bfef;
+				border-color: #f9d23c;
 			}
 
 		#footer select option {
@@ -3915,7 +3915,7 @@
 
 		#footer input[type="checkbox"]:focus + label:before,
 		#footer input[type="radio"]:focus + label:before {
-			border-color: #18bfef;
+			border-color: #f9d23c;
 		}
 
 		#footer ::-webkit-input-placeholder {
@@ -3943,7 +3943,7 @@
 		}
 
 		#footer ul.icons li a.icon:hover:before {
-			color: #18bfef;
+			color: #f9d23c;
 		}
 
 		#footer ul.icons.alt li .icon:before {
@@ -3951,7 +3951,7 @@
 		}
 
 		#footer ul.icons.alt li a.icon:hover:before {
-			box-shadow: inset 0 0 0 2px #18bfef;
+			box-shadow: inset 0 0 0 2px #f9d23c;
 		}
 
 		#footer header.major .date:before, #footer header.major .date:after {
@@ -3991,13 +3991,13 @@
 		}
 
 			#footer .pagination a:hover {
-				color: #18bfef !important;
-				border-color: #18bfef;
+				color: #f9d23c!important;
+				border-color: #f9d23c;
 				z-index: 1;
 			}
 
 				#footer .pagination a:hover + a, #footer .pagination a:hover + span {
-					border-left-color: #18bfef;
+					border-left-color: #f9d23c;
 				}
 
 			#footer .pagination a.active {
@@ -4234,7 +4234,7 @@
 
 			#copyright a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: #f9d23c!important;
 			}
 
 		#copyright strong, #copyright b {
@@ -4741,7 +4741,7 @@
 }
 
 .author-box:hover .author-box-name {
-    color: #18bfef;
+    color: #f9d23c;
     transition: color 0.2s ease
 }
 
@@ -5040,4 +5040,13 @@
 .kg-bookmark-publisher::before {
     content: "•";
     margin: 0 .5em;
+}
+
+/* Coloured Text Selection */
+
+::selection {
+  background: #f9d23c; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #f9d23c; /* Gecko Browsers */
 }
